@@ -22,6 +22,7 @@ body {
   box-shadow: 0 0 15px #9f0606;
   border: 2px solid gray;
   border-radius: 15px;
+  user-select: none;
 }
 
 .display input {
